@@ -1,0 +1,1 @@
+{"BranchName":"Feature-testing","ModelerVersion":"9.24.6.13901","ModelChanges":[{"Status":"Modified","UnitID":"c032e569-7021-47c7-8327-b24eefcdf151","UnitType":"Microflows$Microflow","UnitName":"ACT_TestMessage","Module":"MyFirstModule"}],"RelatedStories":[],"isWebModelerCommit":false,"SolutionVersion":"","HasModelerVersion":true}
